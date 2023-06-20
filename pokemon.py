@@ -2,7 +2,7 @@
 from mlforkids import MLforKidsImageProject
 
 # treat this key like a password and keep it secret!
-key = "718280d0-0f5c-11ee-8bb1-1f569cdc22a4a5f7362d-0020-41aa-ae1f-b533f100ad79"
+key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"x
 
 # this will train your model and might take a little while
 myproject = MLforKidsImageProject(key)
