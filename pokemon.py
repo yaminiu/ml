@@ -9,7 +9,7 @@ myproject = MLforKidsImageProject(key)
 myproject.train_model()
 
 # CHANGE THIS to the image file you want to recognize
-demo = myproject.prediction("/mnt/c/Users/ethan/OneDrive/Desktop/Ethandoc/icode/pokemon2.jpg")
+demo = myproject.prediction("/path/to/test.jpg")
 
 label = demo["class_name"]
 confidence = demo["confidence"]
